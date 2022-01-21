@@ -2,7 +2,7 @@
 
 # Project Title
 
-This program anlyzes and presents a financial plan. The financial planner sources real time data using API and SDK calls. Once the data is sourced, then it simulates
+This program analyzes and presents a financial plan. The financial planner sources real time data using API and SDK calls. Once the data is sourced, then it simulates
 the futuristic returns based on volatility present in the historical data. The program the summarizes the data and presents the data in visual format.
 
 ---
